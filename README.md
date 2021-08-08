@@ -1,2 +1,2 @@
 # battleship-io
-updated version of battleship app using socket io
+An updated version of an earlier battleship app, now using socket io. This project is being worked on during my spare time.
